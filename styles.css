@@ -1,0 +1,71 @@
+body{
+   background-color: rgb(235, 178, 138);
+   
+   
+   
+   
+ }
+ 
+
+ from{
+    margin-bottom: 80px;
+    align-items: center;
+    
+    
+    
+ }
+
+ #task{
+    width: 600px;
+    padding: 14px 20px;
+    margin: 14px 0;
+    margin-left: 5px;
+    background-color: silver;
+    color: rgb(237, 245, 240);
+    font-size: 18px;
+    border-radius: 14pc;
+    
+    
+   
+ }
+ button {
+   text-align: center;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(92, 12, 231);
+    color: rgb(236, 239, 241);
+    margin: 7px;
+    border: none;
+    cursor: pointer;
+    margin-left: 50px;
+    border-radius: 14px;
+
+ }
+
+ ul {
+    list-style: none;
+   
+
+ } 
+ 
+li{
+   
+   
+   display:inline;
+   border-radius: 7px;
+   
+   
+    
+    
+}
+
+.done {
+    text-decoration: line-through;
+    
+ }
+
+
+
+ h1{
+   color: rgb(178, 227, 19);
+ }
